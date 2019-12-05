@@ -448,8 +448,8 @@ const airPortLineT2BrunchPoints = airPortLineT2Brunch;
 
 const T2toT3 = [
     [ 2320, 320, 'T2航站楼', 0, -15 ],
-    [ 2340, 385, '', 0, -15 ], 
-    [ 2375, 385, '', 0, -15 ],
+    [ 2355, 360, '', 0, -15 ], 
+    [ 2390, 360, '', 0, -15 ],
     [ 2450, 330, 'T3航站楼', 0, -15 ],
 ]
 const T2toT3Points = T2toT3.slice();
