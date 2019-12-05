@@ -438,13 +438,14 @@ const airPortLine = [
 
 const airPortLinePoints = airPortLine.slice();
 airPortLinePoints.splice(1, 2);
-airPortLinePoints.splice(2, 3);
+airPortLinePoints.splice(2, 4);
 
 const airPortLineT2Brunch = [
     [ 2300, 460, '', 33, 5 ],
     [ 2320, 320, 'T2航站楼', 0, -15 ],
 ];
-const airPortLineT2BrunchPoints = airPortLineT2Brunch;
+const airPortLineT2BrunchPoints = airPortLineT2Brunch.slice();
+airPortLineT2BrunchPoints.splice(0, 1);
 
 const T2toT3 = [
     [ 2320, 320, 'T2航站楼', 0, -15 ],
