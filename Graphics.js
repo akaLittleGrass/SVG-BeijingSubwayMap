@@ -1,7 +1,7 @@
 const vision = d3.select('#vision');
 
 /*
-   array items explain: [xCoord, yCoord, text, testOffsetX, textOffsetY]
+   array items explain: [xCoord, yCoord, text, textOffsetX, textOffsetY]
 */
 
 const line1 =   [ 
@@ -278,7 +278,7 @@ const line8North = [
     [ 1375, 550, '森林公园南门', -60, -5 ],
     [ 1375, 580, '奥林匹克公园', 60, 20 ],
     [ 1375, 610, '奥体中心', 42, 13 ],
-    [ 1375, 640, '北土城', -33, -15 ],
+    [ 1375, 640, '北土城', 33, 25 ],
     [ 1375, 680, '安华桥', -33, 5 ],
     [ 1375, 720, '安德里北街', -45, -10 ],
     [ 1375, 750, '', 0, -14 ],

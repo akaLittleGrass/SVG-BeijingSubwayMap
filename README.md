@@ -1,3 +1,3 @@
-# 基于D3绘制的北京地铁图，还没画完，有空再画
+# Beijing subway map based on D3.js，love BJ
 ## https://akalittlegrass.github.io/subwayMapBasedOnD3/
-![show.gif](https://i.loli.net/2019/06/01/5cf20ec0760f091670.gif)
+![show.gif](https://i.loli.net/2019/12/09/dIHRgmLGuv49Dxo.gif)
