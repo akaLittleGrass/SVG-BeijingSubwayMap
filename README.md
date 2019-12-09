@@ -1,4 +1,4 @@
-## Beijing subway map based on D3.js，love BJ
+## Beijing subway map based on D3.js，love Beijing
 https://akalittlegrass.github.io/subwayMapBasedOnD3/
 
 
