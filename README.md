@@ -1,5 +1,5 @@
 ## Beijing subway map based on D3.js
-### For our Great Beijing  
+### For The Great Beijing  
 Preview:https://akalittlegrass.github.io/SVG-BeijingSubwayMap/
 
 
